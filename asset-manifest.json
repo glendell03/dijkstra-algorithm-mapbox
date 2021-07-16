@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dijkstra-algorithm-mapbox/static/css/main.6ad71d40.chunk.css",
+    "main.js": "/dijkstra-algorithm-mapbox/static/js/main.7d3d9ac1.chunk.js",
+    "main.js.map": "/dijkstra-algorithm-mapbox/static/js/main.7d3d9ac1.chunk.js.map",
+    "runtime-main.js": "/dijkstra-algorithm-mapbox/static/js/runtime-main.611be4dc.js",
+    "runtime-main.js.map": "/dijkstra-algorithm-mapbox/static/js/runtime-main.611be4dc.js.map",
+    "static/css/2.0cd42209.chunk.css": "/dijkstra-algorithm-mapbox/static/css/2.0cd42209.chunk.css",
+    "static/js/2.581d96ad.chunk.js": "/dijkstra-algorithm-mapbox/static/js/2.581d96ad.chunk.js",
+    "static/js/2.581d96ad.chunk.js.map": "/dijkstra-algorithm-mapbox/static/js/2.581d96ad.chunk.js.map",
+    "static/js/3.7b1a1659.chunk.js": "/dijkstra-algorithm-mapbox/static/js/3.7b1a1659.chunk.js",
+    "static/js/3.7b1a1659.chunk.js.map": "/dijkstra-algorithm-mapbox/static/js/3.7b1a1659.chunk.js.map",
+    "index.html": "/dijkstra-algorithm-mapbox/index.html",
+    "static/css/2.0cd42209.chunk.css.map": "/dijkstra-algorithm-mapbox/static/css/2.0cd42209.chunk.css.map",
+    "static/css/main.6ad71d40.chunk.css.map": "/dijkstra-algorithm-mapbox/static/css/main.6ad71d40.chunk.css.map",
+    "static/js/2.581d96ad.chunk.js.LICENSE.txt": "/dijkstra-algorithm-mapbox/static/js/2.581d96ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.611be4dc.js",
+    "static/css/2.0cd42209.chunk.css",
+    "static/js/2.581d96ad.chunk.js",
+    "static/css/main.6ad71d40.chunk.css",
+    "static/js/main.7d3d9ac1.chunk.js"
+  ]
+}
