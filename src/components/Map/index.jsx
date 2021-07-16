@@ -6,7 +6,8 @@ import * as Styles from "./styled";
 import "mapbox-gl/dist/mapbox-gl.css";
 import "@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css";
 
-mapboxgl.accessToken = process.env.REACT_APP_MAPBOX;
+mapboxgl.accessToken =
+  "pk.eyJ1IjoiemVuaXRzdSIsImEiOiJja3FjNzR3ZjAwdGdyMm5vdjFqa3hwN25mIn0.cLd4F1gnAF8_kORW7FSnDg";
 
 const Map = () => {
   const mapContainer = useRef(null);
