@@ -6,6 +6,9 @@ import * as Styles from "./styled";
 import "mapbox-gl/dist/mapbox-gl.css";
 import "@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css";
 
+mapboxgl.workerClass =
+  // eslint-disable-next-line import/no-webpack-loader-syntax
+  require("worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker").default;
 mapboxgl.accessToken =
   "pk.eyJ1IjoiemVuaXRzdSIsImEiOiJja3FjNzR3ZjAwdGdyMm5vdjFqa3hwN25mIn0.cLd4F1gnAF8_kORW7FSnDg";
 
